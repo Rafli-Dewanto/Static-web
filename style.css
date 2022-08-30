@@ -1,0 +1,164 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    color: #40514e;
+}
+
+#gambar{
+    margin-top: 30px;
+}
+
+p{
+    line-height: 2;
+}
+
+h1{
+    margin: 50px auto 10px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.855rem;
+    color: #f8c685;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #f8c685;
+    font-size: 1.7rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #ecb367;
+}
+
+hr{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%
+}
+
+a{
+    color: #bf8445;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+
+.top-container{
+    background-color: #fff4e3;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.bottom-container{
+    line-height: 2;
+    background-color: #ecb367;
+    padding: 40px 0 20px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.upper-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.dot {
+    height: 5px;
+    width: 5px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    margin-top: 10px;
+}
+
+.gambar-skill-python{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.gambar-skill-java{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.skills{
+    padding-top: 20px;
+}
+
+.btn {
+    background: #ffffff;
+    background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+    background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+    background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffb338;
+    font-size: 30px;
+    padding: 5px 16px 4px 20px;
+    border: solid #ffe7ba 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #bf8445;
+    text-decoration: none;
+}
+
+.contact-me{
+    line-height: 2;
+    padding-bottom: 50px;
+}
+
+.copyright{
+    color: #eaf6f6;
+}
+
+.intro{
+    width: 30%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.copyrigth{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+#text-get-in-touch{
+    width: 30%;
+    margin: 40px auto 60px;
+    padding-bottom: 20px;
+}
