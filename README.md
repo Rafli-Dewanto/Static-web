@@ -1,2 +1,2 @@
 # Static Web
-Static non-responsive website with only html &amp; css
+Static non-responsive website with html &amp; css
